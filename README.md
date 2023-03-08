@@ -1,6 +1,6 @@
 # Api_Productos_Tecnologicos
 
-Es una api que creé y subí para utilizar los datos en una app web que realize, donde vamos a encontrar los productos de: Computadoras, notebooks, componentes y accesorios. Cada producto esta relacionada con sus categorias. 
+Es una api que creé y subí a mi base de datos para utilizar los datos en una app web que realize, donde vamos a encontrar los productos de: Computadoras, notebooks, componentes y accesorios. Cada producto esta relacionada con sus categorias. 
 
  Las tecnologías utilizadas: Node.js, Express.js, Sequelize, PostgreSQL, SQL
 
